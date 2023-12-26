@@ -47,12 +47,12 @@ public class BoardTest {
                 XX
                 """.trim();
         static final String board2x2_with_triangle_structure = """
-                        .X
-                        XX
-                        """.trim();
+                .X
+                XX
+                """.trim();
         static final String board2x2_with_strip_structure = """
-                        ..
-                        XX
-                        """.trim();
+                ..
+                XX
+                """.trim();
     }
 }
